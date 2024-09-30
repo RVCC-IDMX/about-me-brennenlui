@@ -1,0 +1,28 @@
+body{
+    font-family: "Roboto Slab";
+    background-color: #3A586E;
+    color: #F5A127;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Oleo Script";
+    font-size: 50pt;
+}
+
+header{
+    text-align: center;
+}
+
+#hero, footer{
+    border: 2px solid #433B2F;
+    background-color: #3178AD;
+    text-align: center;
+}
+
+#hero img{
+    width: 300px;
+}
+
+#bio{
+    text-align: center;
+}
