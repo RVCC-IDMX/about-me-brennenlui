@@ -6,6 +6,10 @@ body{
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Oleo Script";
+    text-align: center;
+}
+
+h1{ 
     font-size: 50pt;
 }
 
@@ -26,3 +30,16 @@ header{
 #bio{
     text-align: center;
 }
+
+div.container{
+    text-align: center;
+  }
+
+ul.HobbyList{
+    display: inline-block;
+    text-align: left;
+    border: 5px solid #433B2F;
+    background-color: #3178AD;
+    padding: 25px;
+    list-style-type: square;
+  }
