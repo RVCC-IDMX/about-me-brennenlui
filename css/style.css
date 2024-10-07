@@ -65,3 +65,29 @@ ul.HobbyList{
     padding: 5px;
     background-color: #3178AD;
   }
+
+  /*Literature*/
+  #lit {
+    border: 2px solid #433B2F;
+    margin-top: 2rem;
+  }
+
+  #lit div {
+    padding: 2rem;
+    max-width: 40rem;
+    margin: 0 auto;
+  }
+
+  #lit div p {
+    padding: 0.5rem 0;
+  }
+
+  #lit div p:nth-child(odd):first-letter{
+    color: #F5A127;
+    float: left;
+    font-size: 2em;
+    font-family: 'Alex Brush';
+    padding: .25em;
+    line-height: .65;
+    border: 3px solid #433B2F;
+  }
