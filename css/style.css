@@ -22,15 +22,17 @@ header{
     background-color: #3178AD;
     text-align: center;
 }
-
+/*Hero Section*/
 #hero img{
     width: 300px;
 }
 
+/*Bio Section*/
 #bio{
     text-align: center;
 }
 
+/*Hobbies*/
 div.container{
     text-align: center;
   }
@@ -42,4 +44,24 @@ ul.HobbyList{
     background-color: #3178AD;
     padding: 25px;
     list-style-type: square;
+  }
+
+  /*Gallery*/
+
+  #gallery {
+    border: 5px solid #433B2F;
+  }
+
+  #gallery img{
+    max-width: 100%;
+  }
+
+  #gallery figure {
+    text-align: center;
+  }
+
+  #gallery figcaption{
+    border: 3px solid #433B2F;
+    padding: 5px;
+    background-color: #3178AD;
   }
