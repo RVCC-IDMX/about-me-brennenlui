@@ -32,14 +32,19 @@ header{
     text-align: center;
 }
 
+h2{
+  margin: .1em;
+}
+
 /*Hobbies*/
 div.container{
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
 ul.HobbyList{
     display: inline-block;
-    text-align: left;
     border: 5px solid #433B2F;
     background-color: #3178AD;
     padding: 25px;
@@ -90,4 +95,19 @@ ul.HobbyList{
     padding: .25em;
     line-height: .65;
     border: 3px solid #433B2F;
+  }
+
+  @media screen and (min-width: 60em){
+    figure{
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+    }
+
+    figcaption{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 2rem;
+      margin-left: 1rem;
+    }
   }
