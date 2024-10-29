@@ -72,6 +72,11 @@ ul.HobbyList{
     background-color: #3178AD;
   }
 
+  #video{
+    text-align: center;
+    background-color: #3178AD;
+  }
+
   /*Literature*/
   #lit {
     border: 2px solid #433B2F;
