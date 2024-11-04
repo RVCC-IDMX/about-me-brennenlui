@@ -148,4 +148,51 @@ ul.HobbyList{
 
   #formElements{
     display: grid;
+    row-gap: 1em;
+  }
+
+  #contact{
+    padding: 1rem;
+    max-width: 600px;
+    margin: 2rem auto;
+  }
+
+  fieldset{
+    border: 2px solid #433B2F;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+
+  legend {
+    background-color: #3178AD;
+  }
+
+  #contact input, #contact textarea, #contact select, #contact button{
+    padding: .5em;
+    font-size: 1rem;
+  }
+
+  #contact textarea, #contact select{
+    box-shadow: 5px 5px 8px #3178AD, 8px 8px 8px #F5A127;
+  }
+#name, #email, #phone{
+  box-shadow: 5px 5px 8px #3178AD, 8px 8px 8px #F5A127;
+}
+  #contact ul{
+    list-style: none;
+    padding: 0px;
+  }
+
+  #contact li{
+    margin: 1rem;
+  }
+
+  #contact button{
+    background-color: #3178AD;
+    color: white;
+    border: 1px solid #433B2F;
+    max-width: 400px;
+    width: 50%;
+    justify-self: center;
+    box-shadow: 3px 3px #888888;
   }
