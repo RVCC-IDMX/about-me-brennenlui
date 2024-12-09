@@ -1,7 +1,7 @@
 body{
     font-family: "Roboto Slab";
     background-color: #3A586E;
-    color: #F5A127;
+    color: #ffbf62;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,7 +19,7 @@ header{
 
 #hero, footer{
     border: 2px solid #433B2F;
-    background-color: #3178AD;
+    background-color: #062c49;
     text-align: center;
 }
 /*Hero Section*/
@@ -47,7 +47,7 @@ div.container{
 ul.HobbyList{
     display: inline-block;
     border: 5px solid #433B2F;
-    background-color: #3178AD;
+    background-color: #062c49;
     padding: 25px;
     list-style-type: square;
   }
@@ -69,12 +69,12 @@ ul.HobbyList{
   #gallery figcaption{
     border: 3px solid #433B2F;
     padding: 5px;
-    background-color: #3178AD;
+    background-color: #062c49;
   }
 
   #video{
     text-align: center;
-    background-color: #3178AD;
+    background-color: #062c49;
   }
 
   /*Literature*/
@@ -94,7 +94,7 @@ ul.HobbyList{
   }
 
   #lit div p:first-child:first-letter{
-    color: #F5A127;
+    color: #ffbf62;
     float: left;
     font-size: 2em;
     font-family: 'Alex Brush';
@@ -164,7 +164,7 @@ ul.HobbyList{
   }
 
   legend {
-    background-color: #3178AD;
+    background-color: #062c49;
   }
 
   #contact input, #contact textarea, #contact select, #contact button{
@@ -173,10 +173,10 @@ ul.HobbyList{
   }
 
   #contact textarea, #contact select{
-    box-shadow: 5px 5px 8px #3178AD, 8px 8px 8px #F5A127;
+    box-shadow: 5px 5px 8px #3178AD, 8px 8px 8px #ffbf62;
   }
 #name, #email, #phone{
-  box-shadow: 5px 5px 8px #3178AD, 8px 8px 8px #F5A127;
+  box-shadow: 5px 5px 8px #3178AD, 8px 8px 8px #ffbf62;
 }
   #contact ul{
     list-style: none;
@@ -188,7 +188,7 @@ ul.HobbyList{
   }
 
   #contact button{
-    background-color: #3178AD;
+    background-color: #062c49;
     color: white;
     border: 1px solid #433B2F;
     max-width: 400px;
