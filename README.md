@@ -1,6 +1,6 @@
 # Brennen Lui
 
-Foobar is a Python library for dealing with word pluralization.
+About Me: The Final Project 
 
 ## Netlify Status
 
