@@ -1,4 +1,4 @@
-# Brennen Lui
+# ![](img/favicon-96x96.png)Brennen Lui 
 
 About Me: The Final Project 
 
@@ -7,7 +7,7 @@ About Me: The Final Project
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6806039e-13c5-419a-bb5b-2b82aa7ed6e2/deploy-status)](https://app.netlify.com/sites/about-me-brennenlui/deploys)
 
 ## Description
-My final about me project is a culmination of all the web design skills I have learned throughout the semester, put all together into one project that gives a brief description of my life. The header of my website contains a logo, a title, and navigation bar. This section of my website demonstrates the following skills: adding images, navbar links, and css styling. The next few sections biography, hobbies, and photo gallery contain elements such as images with figcaptions, headings, lists, borders, and css styling. The video gallery contains a youtube video I created about my midterm project. I then used iframe to embedded the video into my website. The next section is a short blog article I created after researching CSS animation. 
+My final about me project is a culmination of all the web design skills I have learned throughout the semester, put all together into one project that gives a brief description of my life. The header of my website contains a logo that I created, a title, and navigation bar. This section of my website demonstrates the following skills: adding images, navbar links, and css styling. The next few sections biography, hobbies, and photo gallery contain elements such as images with figcaptions, headings, lists, borders, and css styling. The video gallery contains a youtube video I created about my midterm project. I then used iframe to embedded the video into my website. The next section is a short blog article I created after researching CSS animation. 
 
 
 ## Color Scheme
