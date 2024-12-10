@@ -81,12 +81,25 @@ ul.HobbyList{
   #video{
     text-align: center;
     background-color: #062c49;
+    padding: 5px;
   }
 
   /*Styling for the blog article*/
+
   #lit {
-    border: 2px solid #433B2F;
-    margin-top: 2rem;
+    border: 5px solid red;
+    animation-name: border;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+
+  @keyframes border{
+    0%   {border-color: red;}
+    20%  {border-color: orange;}
+    40%  {border-color: yellow;}
+    60% {border-color: green;}
+    80% {border-color: blue;}
+    100% {border-color: purple;}
   }
 
   #lit div {
@@ -109,6 +122,13 @@ ul.HobbyList{
     border: 3px solid #433B2F;
   }
 
+  code {
+    background-color: #062c49;
+    display: block;
+    padding: 5px;
+    
+  }
+ 
 /* Styling for tablet size */
   @media screen and (min-width: 60em){
     figure{
@@ -131,6 +151,7 @@ ul.HobbyList{
     #lit div{
       max-width: 100%;
       columns: 20rem;
+      
     }
   }
 

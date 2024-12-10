@@ -23,6 +23,10 @@ I used [Adobe Color](https://color.adobe.com/create/color-wheel) to help pick ou
 * Site used to create my avatar [Avataaars Generator](https://getavataaars.com/)
 * Site used to create my own logo using my initials [Figma](https://www.figma.com/)
 * Site used to create my own favicon [Favicon.ico & App Icon Generator](https://www.favicon-generator.org/)
+* Sites used to create my blog article
+    * [W3Schools](https://www.w3schools.com/css/css3_animations.asp)
+    * [freeCodeCamp](https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/#heading-what-is-the-css-animation-name-property)
+    * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations)
 ## License
 
 [GNU GPLv3](Liscense)
