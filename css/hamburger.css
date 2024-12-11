@@ -1,3 +1,6 @@
+html{
+  scroll-behavior: smooth;
+}
 .nav {
   border-bottom: 3px solid #433B2F;
 }
