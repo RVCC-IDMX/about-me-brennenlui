@@ -12,8 +12,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Oleo+Script&family=Roboto+Slab&display=swap" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Alex Brush' rel='stylesheet'>
 
+    <!-- CSS style sheets-->
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/nav.css">
+    <link rel="stylesheet" href="css/hamburger.css">
+    
+    
 
    
 <!--This is an assignment from my Web Dev Class, Brennen Lui-->
@@ -22,8 +25,29 @@
     <!--the body element contains all content shown to a
     vistor -->
 
+    <!-- Contains the logo and navigation bar-->
     <header>
+        <nav class="nav">
+            <input type="checkbox" id="nav_checkbox" class="nav_checkbox">
+            <label for="nav_checkbox" class="nav_toggle">
+            <img src="img/dropdown.png" class="menu" width="100" title="bars">
+            <img src="img/close.png" class="close"  width="100" title="times">
+            </label>
+            <ul class="nav_menu">
+                <li><a href="#" id="logo">
+                    <img src="img/ewert-bl.svg" width="100" title="logo">
+                </li>
+                <li><a href="#bio" class="nav-links">Bio</a></li>
+                <li><a href="#gallery" class="nav-links">Gallery</a></li>
+                <li><a href="#lit" class="nav-links">Blog</a></li>
+                <li><a href="#contact" class="nav-links">Contact Me</a></li>
+            </ul>
+        </nav>
+        <h1>Web Dev I</h1>
+
         <!--the header shows logo and page title-->
+
+        <!--
         <nav class="navbar">
             <div class="logo">
                 <img src="img/ewert-bl.svg" alt="blue origami logo">
@@ -38,7 +62,7 @@
                 </ul>
             </div>
         </nav>
-        
+        -->
     </header>
 
     <main>

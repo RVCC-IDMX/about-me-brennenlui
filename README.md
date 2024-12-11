@@ -7,7 +7,7 @@ About Me: The Final Project
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6806039e-13c5-419a-bb5b-2b82aa7ed6e2/deploy-status)](https://app.netlify.com/sites/about-me-brennenlui/deploys)
 
 ## Description
-My final about me project is a culmination of all the web design skills I have learned throughout the semester, put all together into one project that gives a brief description of my life. The head of the website contains a title and a favicon that I made of my initials. The header of my website contains a logo that I created, a title, and navigation bar. This section of my website demonstrates the following skills: adding images, navbar links, and css styling. The next few sections biography, hobbies, and photo gallery contain elements such as images with figcaptions, headings, lists, borders, and css styling. The video gallery contains a youtube video I created about my midterm project. I then used iframe to embedded the video into my website. The next section is a short blog article I created after researching CSS animation. The next sectin is a contact form that I created by using web forms that collect user input and stores the answers on netlify. At the very bottom I have a footer that includes the copyright and a link to my github repository.
+My final about me project is a culmination of all the web design skills I have learned throughout the semester, put all together into one project that gives a brief description of my life. The head of the website contains a title and a favicon that I made of my initials. The header of my website contains a logo that I created, a title, and navigation bar. When the website is view on a phone the navigation bar turns into a hamburger menu. This section of my website demonstrates the following skills: adding images, navbar links, and css styling. The next few sections biography, hobbies, and photo gallery contain elements such as images with figcaptions, headings, lists, borders, and css styling. The video gallery contains a youtube video I created about my midterm project. I then used iframe to embedded the video into my website. The next section is a short blog article I created after researching CSS animation. The next sectin is a contact form that I created by using web forms that collect user input and stores the answers on netlify. At the very bottom I have a footer that includes the copyright and a link to my github repository.
 
 
 ## Color Scheme
@@ -15,8 +15,8 @@ I used [Adobe Color](https://color.adobe.com/create/color-wheel) to help pick ou
 
 * The background color is `#3A586E`.
 * The font color is `#ffbf62`.
-* I use `#433B2F` for the header and some other elements like boder color.
-* I use `#062c49` as the background color for some of my elements like the figcaptions, video gallery background, and footer.
+* I used `#433B2F` for the header and some other elements like boder color.
+* I used `#062c49` as the background color for some of my elements like the figcaptions, video gallery background, and footer.
 
 
 ## Citations
